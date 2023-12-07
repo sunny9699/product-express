@@ -1,3 +1,6 @@
+# Install node_modules
+`npm install`
+
 # Run command
 `npm run start`
 
